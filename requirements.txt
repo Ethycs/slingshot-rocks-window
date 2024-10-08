@@ -1,0 +1,5 @@
+ipykernel
+ipywidgets
+modal
+wandb
+pandas
