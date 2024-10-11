@@ -3,3 +3,7 @@ ipywidgets
 modal
 wandb
 pandas
+dotenv
+datasets
+numpy < 2.0
+transformers
